@@ -1,2 +1,7 @@
 g(ong)j(i)j(in)
 163202576205
+
+php5.6.10
+./configure --prefix=/usr/local/php/5.6.10 --with-config-file-path=/usr/local/php/5.6.10/etc --enable-fpm --with-pear --enable-bcmath --enable-ftp --enable-fileinfo --enable-mbstring --enable-sockets --enable-zip --with-openssl --with-zlib --with-curl --with-gd --with-png-dir --with-jpeg-dir --with-freetype-dir --with-mcrypt --with-mhash --with-mysql=mysqlnd --with-mysqli=mysqlnd --with-pdo-mysql=mysqlnd --with-iconv=/usr/local/libiconv
+php7
+./configure --prefix=/usr/local/php/7.0.0 --with-config-file-path=/usr/local/php/7.0.0/etc --enable-fpm --with-pear --enable-bcmath --enable-ftp --enable-fileinfo --enable-mbstring --enable-sockets --enable-zip --enable-mysqlnd --with-openssl --with-zlib --with-curl --with-gd --with-png-dir --with-jpeg-dir --with-freetype-dir --with-mcrypt --with-mhash --with-mysqli=mysqlnd --with-pdo-mysql=mysqlnd --with-iconv=/usr/local/libiconv
